@@ -1,0 +1,30 @@
+body{
+	background:#87CEEB ;
+	font-family: "Helvetica", "Lucida Grande", sans-serif;
+	color: #3D3D3D;
+
+	width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+h1{
+	text-align: center;
+}
+
+#banner {
+  margin: auto;
+  display: block;
+}
+
+#posto_antigo1{
+	margin: auto;
+  	display: block;
+}
+
+#posto_antigo{
+	margin: auto;
+  	display: block
+}
